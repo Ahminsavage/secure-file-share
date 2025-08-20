@@ -10,11 +10,11 @@ A minimal, **secure-by-default** file sharing portal.
 
 > ⚠️ For internship/learning purposes — not production-hardened.
 
-Project: Secure File Sharing System
-Tools Used: Python Flask, PyCryptodome (AES), HTML/CSS/JS, Postman, curl, 
-Prepared by: RAWLINGS ODIERO
-Date: August 2025
-Task: FutureInterns – Task 3
+- Project: Secure File Sharing System
+- Tools Used: Python Flask, PyCryptodome (AES), HTML/CSS/JS, Postman, curl, 
+- Prepared by: RAWLINGS ODIERO
+- Date: August 2025
+- Task: FutureInterns – Task 3
 
 
 ---

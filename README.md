@@ -20,12 +20,12 @@ A minimal, **secure-by-default** file sharing portal.
 ---
 
 ## ✨ Features
-- 📤 Upload files up to a configurable size (default: **50 MB**).  
-- 🔑 AES-256-GCM with scrypt KDF; random salt & nonce per file.  
-- 🚀 Streaming encryption/decryption (constant memory use).  
-- 🗂️ File index with original names + timestamps.  
-- 🛡️ Secure headers (CSP, X-CTO, XFO, Referrer-Policy).  
-- 🎨 Minimal dark-themed UI.  
+-  Upload files up to a configurable size (default: **50 MB**).  
+-  AES-256-GCM with scrypt KDF; random salt & nonce per file.  
+-  Streaming encryption/decryption (constant memory use).  
+-  File index with original names + timestamps.  
+-  Secure headers (CSP, X-CTO, XFO, Referrer-Policy).  
+-  Minimal dark-themed UI.  
 
 ---
 

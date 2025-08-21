@@ -12,7 +12,7 @@ A minimal, **secure-by-default** file sharing portal.
 
 - Project: Secure File Sharing System
 - Tools Used: Python Flask, PyCryptodome (AES), HTML/CSS/JS, Postman, curl, 
-- Prepared by: RAWLINGS ODIERO
+- Prepared by: AHMIN SAVAGE
 - Date: August 2025
 - Task: FutureInterns – Task 3
 

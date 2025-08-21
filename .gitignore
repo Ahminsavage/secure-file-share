@@ -216,3 +216,10 @@ test.txt
 passwordlist.txt
 1
 
+.venv/
+venv/
+__pycache__/
+instance/
+uploads/
+.env
+*.sqlite3
